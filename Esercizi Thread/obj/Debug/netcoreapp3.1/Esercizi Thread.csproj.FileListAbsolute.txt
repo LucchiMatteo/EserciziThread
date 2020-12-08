@@ -1,0 +1,13 @@
+C:\Users\asus f556uj\source\repos\Esercizi Thread\Esercizi Thread\bin\Debug\netcoreapp3.1\Esercizi Thread.exe
+C:\Users\asus f556uj\source\repos\Esercizi Thread\Esercizi Thread\bin\Debug\netcoreapp3.1\Esercizi Thread.deps.json
+C:\Users\asus f556uj\source\repos\Esercizi Thread\Esercizi Thread\bin\Debug\netcoreapp3.1\Esercizi Thread.runtimeconfig.json
+C:\Users\asus f556uj\source\repos\Esercizi Thread\Esercizi Thread\bin\Debug\netcoreapp3.1\Esercizi Thread.runtimeconfig.dev.json
+C:\Users\asus f556uj\source\repos\Esercizi Thread\Esercizi Thread\bin\Debug\netcoreapp3.1\Esercizi Thread.dll
+C:\Users\asus f556uj\source\repos\Esercizi Thread\Esercizi Thread\bin\Debug\netcoreapp3.1\Esercizi Thread.pdb
+C:\Users\asus f556uj\source\repos\Esercizi Thread\Esercizi Thread\obj\Debug\netcoreapp3.1\Esercizi Thread.csprojAssemblyReference.cache
+C:\Users\asus f556uj\source\repos\Esercizi Thread\Esercizi Thread\obj\Debug\netcoreapp3.1\Esercizi Thread.AssemblyInfoInputs.cache
+C:\Users\asus f556uj\source\repos\Esercizi Thread\Esercizi Thread\obj\Debug\netcoreapp3.1\Esercizi Thread.AssemblyInfo.cs
+C:\Users\asus f556uj\source\repos\Esercizi Thread\Esercizi Thread\obj\Debug\netcoreapp3.1\Esercizi Thread.csproj.CoreCompileInputs.cache
+C:\Users\asus f556uj\source\repos\Esercizi Thread\Esercizi Thread\obj\Debug\netcoreapp3.1\Esercizi Thread.dll
+C:\Users\asus f556uj\source\repos\Esercizi Thread\Esercizi Thread\obj\Debug\netcoreapp3.1\Esercizi Thread.pdb
+C:\Users\asus f556uj\source\repos\Esercizi Thread\Esercizi Thread\obj\Debug\netcoreapp3.1\Esercizi Thread.genruntimeconfig.cache
