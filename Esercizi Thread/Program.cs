@@ -15,7 +15,7 @@ namespace Esercizi_Thread
             Thread t2 = new Thread(new ThreadStart(part2));
             Thread t3 = new Thread(new ThreadStart(part3));
 
-            Console.WriteLine("Inserire il valore a");
+            Console.WriteLine("Inserire il valore e");
             a = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Inserire il valore b");
