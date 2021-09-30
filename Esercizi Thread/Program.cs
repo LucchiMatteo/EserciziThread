@@ -39,6 +39,9 @@ namespace Esercizi_Thread
 
             t4.Start();
             t5.Start();
+
+            t4.Join();
+            t5.Join();
         }
 
         static void part1()
